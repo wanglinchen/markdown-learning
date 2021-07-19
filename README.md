@@ -1,3 +1,2 @@
-# <center> markdown-learning
+# 学习markdown-learning的用法
 
-## 標題的用法
